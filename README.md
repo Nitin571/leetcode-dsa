@@ -24,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nitin571/leetcode-dsa/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nitin571/leetcode-dsa/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 ## Binary Tree
@@ -44,6 +45,7 @@
 | [0048-rotate-image](https://github.com/Nitin571/leetcode-dsa/tree/main/0048-rotate-image/) | Medium |
 | [0136-single-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Nitin571/leetcode-dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/Nitin571/leetcode-dsa/tree/main/0724-find-pivot-index/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nitin571/leetcode-dsa/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
@@ -77,6 +79,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Nitin571/leetcode-dsa/tree/main/0496-next-greater-element-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |

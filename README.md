@@ -73,6 +73,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Nitin571/leetcode-dsa/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Nitin571/leetcode-dsa/tree/main/0050-powx-n/) | Medium |
+| [0202-happy-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Nitin571/leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/Nitin571/leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
@@ -99,6 +100,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Nitin571/leetcode-dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -167,5 +169,6 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0202-happy-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Nitin571/leetcode-dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->

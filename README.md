@@ -33,6 +33,7 @@
 | [0268-missing-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Nitin571/leetcode-dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/Nitin571/leetcode-dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nitin571/leetcode-dsa/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nitin571/leetcode-dsa/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 ## Binary Tree
@@ -107,6 +108,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Nitin571/leetcode-dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Nitin571/leetcode-dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Nitin571/leetcode-dsa/tree/main/0496-next-greater-element-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -153,6 +155,7 @@
 | ------- | ------- |
 | [0179-largest-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0179-largest-number/) | Medium |
 | [0412-fizz-buzz](https://github.com/Nitin571/leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Nitin571/leetcode-dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +169,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/Nitin571/leetcode-dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,4 +179,12 @@
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0202-happy-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Nitin571/leetcode-dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Nitin571/leetcode-dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Nitin571/leetcode-dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->

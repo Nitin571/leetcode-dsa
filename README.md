@@ -154,6 +154,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0179-largest-number/) | Medium |
+| [0344-reverse-string](https://github.com/Nitin571/leetcode-dsa/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Nitin571/leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Nitin571/leetcode-dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Matrix
@@ -178,6 +179,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0202-happy-number/) | Easy |
+| [0344-reverse-string](https://github.com/Nitin571/leetcode-dsa/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Nitin571/leetcode-dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |

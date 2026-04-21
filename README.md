@@ -119,6 +119,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Nitin571/leetcode-dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Nitin571/leetcode-dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Nitin571/leetcode-dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Monotonic Stack
@@ -161,6 +162,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Nitin571/leetcode-dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0179-largest-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0179-largest-number/) | Medium |
 | [0344-reverse-string](https://github.com/Nitin571/leetcode-dsa/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Nitin571/leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |

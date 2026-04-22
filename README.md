@@ -57,6 +57,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/Nitin571/leetcode-dsa/tree/main/0027-remove-element/) | Easy |
 | [0048-rotate-image](https://github.com/Nitin571/leetcode-dsa/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Nitin571/leetcode-dsa/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/Nitin571/leetcode-dsa/tree/main/0056-merge-intervals/) | Medium |
@@ -195,6 +196,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/Nitin571/leetcode-dsa/tree/main/0027-remove-element/) | Easy |
 | [0202-happy-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/Nitin571/leetcode-dsa/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Nitin571/leetcode-dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |

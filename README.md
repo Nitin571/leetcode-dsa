@@ -29,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Nitin571/leetcode-dsa/tree/main/0056-merge-intervals/) | Medium |
+| [0169-majority-element](https://github.com/Nitin571/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
@@ -64,6 +65,7 @@
 | [0118-pascals-triangle](https://github.com/Nitin571/leetcode-dsa/tree/main/0118-pascals-triangle/) | Easy |
 | [0134-gas-station](https://github.com/Nitin571/leetcode-dsa/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/Nitin571/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
@@ -115,6 +117,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0169-majority-element](https://github.com/Nitin571/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Nitin571/leetcode-dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -184,6 +187,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Nitin571/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Nitin571/leetcode-dsa/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -212,6 +216,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Nitin571/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Nitin571/leetcode-dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |

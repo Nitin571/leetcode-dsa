@@ -22,6 +22,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Nitin571/leetcode-dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0268-missing-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Nitin571/leetcode-dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nitin571/leetcode-dsa/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
@@ -63,6 +64,7 @@
 | [0048-rotate-image](https://github.com/Nitin571/leetcode-dsa/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Nitin571/leetcode-dsa/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/Nitin571/leetcode-dsa/tree/main/0056-merge-intervals/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Nitin571/leetcode-dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0118-pascals-triangle](https://github.com/Nitin571/leetcode-dsa/tree/main/0118-pascals-triangle/) | Easy |
 | [0134-gas-station](https://github.com/Nitin571/leetcode-dsa/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0136-single-number/) | Easy |
@@ -187,6 +189,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Nitin571/leetcode-dsa/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Nitin571/leetcode-dsa/tree/main/0054-spiral-matrix/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Nitin571/leetcode-dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |

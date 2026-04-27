@@ -75,6 +75,7 @@
 | [0200-number-of-islands](https://github.com/Nitin571/leetcode-dsa/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/Nitin571/leetcode-dsa/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Nitin571/leetcode-dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -160,6 +161,7 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Nitin571/leetcode-dsa/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nitin571/leetcode-dsa/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -216,6 +218,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/Nitin571/leetcode-dsa/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/Nitin571/leetcode-dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -254,8 +257,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/Nitin571/leetcode-dsa/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Nitin571/leetcode-dsa/tree/main/0200-number-of-islands/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Nitin571/leetcode-dsa/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->

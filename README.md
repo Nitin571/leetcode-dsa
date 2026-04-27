@@ -85,6 +85,7 @@
 | [0724-find-pivot-index](https://github.com/Nitin571/leetcode-dsa/tree/main/0724-find-pivot-index/) | Easy |
 | [0832-flipping-an-image](https://github.com/Nitin571/leetcode-dsa/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Nitin571/leetcode-dsa/tree/main/0867-transpose-matrix/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/Nitin571/leetcode-dsa/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Nitin571/leetcode-dsa/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nitin571/leetcode-dsa/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nitin571/leetcode-dsa/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
@@ -143,6 +144,7 @@
 | [0496-next-greater-element-i](https://github.com/Nitin571/leetcode-dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Nitin571/leetcode-dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/Nitin571/leetcode-dsa/tree/main/0946-validate-stack-sequences/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +168,7 @@
 | [0412-fizz-buzz](https://github.com/Nitin571/leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
 | [0832-flipping-an-image](https://github.com/Nitin571/leetcode-dsa/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Nitin571/leetcode-dsa/tree/main/0867-transpose-matrix/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/Nitin571/leetcode-dsa/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nitin571/leetcode-dsa/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |

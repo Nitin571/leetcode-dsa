@@ -37,6 +37,7 @@
 | [0169-majority-element](https://github.com/Nitin571/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0229-majority-element-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Nitin571/leetcode-dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -79,6 +80,7 @@
 | [0200-number-of-islands](https://github.com/Nitin571/leetcode-dsa/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0229-majority-element-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Nitin571/leetcode-dsa/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Nitin571/leetcode-dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -139,6 +141,7 @@
 | [0169-majority-element](https://github.com/Nitin571/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0202-happy-number/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0229-majority-element-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Nitin571/leetcode-dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/Nitin571/leetcode-dsa/tree/main/0383-ransom-note/) | Easy |
@@ -255,6 +258,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Nitin571/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0229-majority-element-ii/) | Medium |
 | [0383-ransom-note](https://github.com/Nitin571/leetcode-dsa/tree/main/0383-ransom-note/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Nitin571/leetcode-dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Linked List

@@ -173,6 +173,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Nitin571/leetcode-dsa/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0050-powx-n](https://github.com/Nitin571/leetcode-dsa/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/Nitin571/leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
@@ -276,6 +277,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Nitin571/leetcode-dsa/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/Nitin571/leetcode-dsa/tree/main/0148-sort-list/) | Medium |

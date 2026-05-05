@@ -31,6 +31,7 @@
 | [0268-missing-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Nitin571/leetcode-dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nitin571/leetcode-dsa/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nitin571/leetcode-dsa/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -108,6 +109,7 @@
 | [0867-transpose-matrix](https://github.com/Nitin571/leetcode-dsa/tree/main/0867-transpose-matrix/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/Nitin571/leetcode-dsa/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Nitin571/leetcode-dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nitin571/leetcode-dsa/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Nitin571/leetcode-dsa/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nitin571/leetcode-dsa/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Nitin571/leetcode-dsa/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |

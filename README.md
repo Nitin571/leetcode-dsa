@@ -128,6 +128,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Nitin571/leetcode-dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nitin571/leetcode-dsa/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Nitin571/leetcode-dsa/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Nitin571/leetcode-dsa/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Nitin571/leetcode-dsa/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nitin571/leetcode-dsa/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Nitin571/leetcode-dsa/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -144,6 +145,7 @@
 | [0509-fibonacci-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Nitin571/leetcode-dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Nitin571/leetcode-dsa/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Nitin571/leetcode-dsa/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nitin571/leetcode-dsa/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nitin571/leetcode-dsa/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Greedy

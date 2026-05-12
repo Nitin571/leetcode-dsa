@@ -92,6 +92,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/Nitin571/leetcode-dsa/tree/main/0048-rotate-image/) | Medium |
+| [0053-maximum-subarray](https://github.com/Nitin571/leetcode-dsa/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Nitin571/leetcode-dsa/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/Nitin571/leetcode-dsa/tree/main/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Nitin571/leetcode-dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -237,6 +238,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Nitin571/leetcode-dsa/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/Nitin571/leetcode-dsa/tree/main/0118-pascals-triangle/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0338-counting-bits](https://github.com/Nitin571/leetcode-dsa/tree/main/0338-counting-bits/) | Easy |
@@ -281,6 +283,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Nitin571/leetcode-dsa/tree/main/0053-maximum-subarray/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0148-sort-list](https://github.com/Nitin571/leetcode-dsa/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Nitin571/leetcode-dsa/tree/main/0169-majority-element/) | Easy |

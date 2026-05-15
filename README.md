@@ -88,6 +88,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Nitin571/leetcode-dsa/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Nitin571/leetcode-dsa/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/Nitin571/leetcode-dsa/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -264,6 +265,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Nitin571/leetcode-dsa/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Nitin571/leetcode-dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0179-largest-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0179-largest-number/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -387,5 +389,6 @@
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Nitin571/leetcode-dsa/tree/main/0014-longest-common-prefix/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 <!---LeetCode Topics End-->

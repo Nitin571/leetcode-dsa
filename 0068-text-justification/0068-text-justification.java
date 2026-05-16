@@ -25,7 +25,7 @@ class Solution {
             int eachWordSpace = spaceSlots == 0 ? 0 : remainingSlots / spaceSlots;
             int extraSpace    = spaceSlots == 0 ? 0 : remainingSlots % spaceSlots;
             
-            if(j == n) { //Means we are on last line - Left justfied
+            if(j == n) { 
                 eachWordSpace = 1;
                 extraSpace    = 0;
             }

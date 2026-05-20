@@ -26,6 +26,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/Nitin571/leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Nitin571/leetcode-dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
@@ -94,6 +95,7 @@
 | [0027-remove-element](https://github.com/Nitin571/leetcode-dsa/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/Nitin571/leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/Nitin571/leetcode-dsa/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/Nitin571/leetcode-dsa/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Nitin571/leetcode-dsa/tree/main/0053-maximum-subarray/) | Medium |

@@ -98,6 +98,7 @@
 | [0035-search-insert-position](https://github.com/Nitin571/leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/Nitin571/leetcode-dsa/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/Nitin571/leetcode-dsa/tree/main/0048-rotate-image/) | Medium |
+| [0051-n-queens](https://github.com/Nitin571/leetcode-dsa/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Nitin571/leetcode-dsa/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Nitin571/leetcode-dsa/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/Nitin571/leetcode-dsa/tree/main/0056-merge-intervals/) | Medium |
@@ -431,4 +432,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/Nitin571/leetcode-dsa/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->

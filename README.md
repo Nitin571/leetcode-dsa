@@ -341,6 +341,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/Nitin571/leetcode-dsa/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/Nitin571/leetcode-dsa/tree/main/0027-remove-element/) | Easy |
+| [0061-rotate-list](https://github.com/Nitin571/leetcode-dsa/tree/main/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/Nitin571/leetcode-dsa/tree/main/0086-partition-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/Nitin571/leetcode-dsa/tree/main/0148-sort-list/) | Medium |
@@ -373,6 +374,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Nitin571/leetcode-dsa/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0061-rotate-list](https://github.com/Nitin571/leetcode-dsa/tree/main/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/Nitin571/leetcode-dsa/tree/main/0086-partition-list/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |

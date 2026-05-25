@@ -49,6 +49,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Nitin571/leetcode-dsa/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Nitin571/leetcode-dsa/tree/main/0016-3sum-closest/) | Medium |
 | [0056-merge-intervals](https://github.com/Nitin571/leetcode-dsa/tree/main/0056-merge-intervals/) | Medium |
 | [0148-sort-list](https://github.com/Nitin571/leetcode-dsa/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Nitin571/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
@@ -97,6 +98,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Nitin571/leetcode-dsa/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Nitin571/leetcode-dsa/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Nitin571/leetcode-dsa/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/Nitin571/leetcode-dsa/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -361,6 +363,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Nitin571/leetcode-dsa/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Nitin571/leetcode-dsa/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/Nitin571/leetcode-dsa/tree/main/0027-remove-element/) | Easy |
 | [0061-rotate-list](https://github.com/Nitin571/leetcode-dsa/tree/main/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/Nitin571/leetcode-dsa/tree/main/0086-partition-list/) | Medium |

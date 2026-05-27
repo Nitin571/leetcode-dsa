@@ -96,6 +96,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Nitin571/leetcode-dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Nitin571/leetcode-dsa/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Nitin571/leetcode-dsa/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Nitin571/leetcode-dsa/tree/main/0016-3sum-closest/) | Medium |
@@ -183,6 +184,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Nitin571/leetcode-dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/Nitin571/leetcode-dsa/tree/main/0134-gas-station/) | Medium |
 | [0179-largest-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0179-largest-number/) | Medium |
@@ -366,6 +368,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Nitin571/leetcode-dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Nitin571/leetcode-dsa/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Nitin571/leetcode-dsa/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/Nitin571/leetcode-dsa/tree/main/0027-remove-element/) | Easy |

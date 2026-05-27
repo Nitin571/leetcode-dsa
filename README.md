@@ -168,6 +168,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Nitin571/leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Nitin571/leetcode-dsa/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Nitin571/leetcode-dsa/tree/main/0050-powx-n/) | Medium |
 | [0202-happy-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0202-happy-number/) | Easy |
@@ -213,6 +214,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Nitin571/leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/Nitin571/leetcode-dsa/tree/main/0041-first-missing-positive/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Nitin571/leetcode-dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -303,6 +305,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Nitin571/leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Nitin571/leetcode-dsa/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Nitin571/leetcode-dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0068-text-justification](https://github.com/Nitin571/leetcode-dsa/tree/main/0068-text-justification/) | Hard |

@@ -41,6 +41,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nitin571/leetcode-dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0826-most-profit-assigning-work](https://github.com/Nitin571/leetcode-dsa/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Nitin571/leetcode-dsa/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nitin571/leetcode-dsa/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nitin571/leetcode-dsa/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Nitin571/leetcode-dsa/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -152,6 +153,7 @@
 | [0826-most-profit-assigning-work](https://github.com/Nitin571/leetcode-dsa/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0832-flipping-an-image](https://github.com/Nitin571/leetcode-dsa/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Nitin571/leetcode-dsa/tree/main/0867-transpose-matrix/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Nitin571/leetcode-dsa/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Nitin571/leetcode-dsa/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/Nitin571/leetcode-dsa/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/Nitin571/leetcode-dsa/tree/main/0953-verifying-an-alien-dictionary/) | Easy |

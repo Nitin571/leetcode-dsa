@@ -190,6 +190,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nitin571/leetcode-dsa/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nitin571/leetcode-dsa/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nitin571/leetcode-dsa/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,6 +299,7 @@
 | [0338-counting-bits](https://github.com/Nitin571/leetcode-dsa/tree/main/0338-counting-bits/) | Easy |
 | [0509-fibonacci-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Nitin571/leetcode-dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -491,4 +493,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0706-design-hashmap](https://github.com/Nitin571/leetcode-dsa/tree/main/0706-design-hashmap/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 <!---LeetCode Topics End-->

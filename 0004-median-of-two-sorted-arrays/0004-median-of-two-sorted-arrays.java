@@ -24,9 +24,9 @@ class Solution {
 
         int len = merged.length;
 
-        if (len % 2 == 1)
-            return merged[len / 2];
-
-        return (merged[len/2 - 1] + merged[len/2]) / 2.0;
+        if (len % 2 == 0){
+            return (merged[len/2 - 1] + merged[len/2]) / 2.0;
+        }
+        return merged[len / 2];
     }
 }

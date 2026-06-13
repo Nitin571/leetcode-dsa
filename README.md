@@ -242,6 +242,7 @@
 | [0229-majority-element-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Nitin571/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
+| [0299-bulls-and-cows](https://github.com/Nitin571/leetcode-dsa/tree/main/0299-bulls-and-cows/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Nitin571/leetcode-dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Nitin571/leetcode-dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -333,6 +334,7 @@
 | [0179-largest-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0179-largest-number/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/Nitin571/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
+| [0299-bulls-and-cows](https://github.com/Nitin571/leetcode-dsa/tree/main/0299-bulls-and-cows/) | Medium |
 | [0344-reverse-string](https://github.com/Nitin571/leetcode-dsa/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/Nitin571/leetcode-dsa/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/Nitin571/leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
@@ -424,6 +426,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Nitin571/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0229-majority-element-ii/) | Medium |
+| [0299-bulls-and-cows](https://github.com/Nitin571/leetcode-dsa/tree/main/0299-bulls-and-cows/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Nitin571/leetcode-dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/Nitin571/leetcode-dsa/tree/main/0383-ransom-note/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Nitin571/leetcode-dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |

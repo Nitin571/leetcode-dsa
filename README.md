@@ -419,6 +419,7 @@
 | [0826-most-profit-assigning-work](https://github.com/Nitin571/leetcode-dsa/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0832-flipping-an-image](https://github.com/Nitin571/leetcode-dsa/tree/main/0832-flipping-an-image/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nitin571/leetcode-dsa/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nitin571/leetcode-dsa/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -446,6 +447,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/Nitin571/leetcode-dsa/tree/main/0148-sort-list/) | Medium |
 | [0706-design-hashmap](https://github.com/Nitin571/leetcode-dsa/tree/main/0706-design-hashmap/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nitin571/leetcode-dsa/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nitin571/leetcode-dsa/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |

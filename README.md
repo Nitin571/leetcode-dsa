@@ -72,6 +72,7 @@
 | [0692-top-k-frequent-words](https://github.com/Nitin571/leetcode-dsa/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/Nitin571/leetcode-dsa/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/Nitin571/leetcode-dsa/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [0853-car-fleet](https://github.com/Nitin571/leetcode-dsa/tree/main/0853-car-fleet/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Nitin571/leetcode-dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nitin571/leetcode-dsa/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
@@ -158,6 +159,7 @@
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Nitin571/leetcode-dsa/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/Nitin571/leetcode-dsa/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0832-flipping-an-image](https://github.com/Nitin571/leetcode-dsa/tree/main/0832-flipping-an-image/) | Easy |
+| [0853-car-fleet](https://github.com/Nitin571/leetcode-dsa/tree/main/0853-car-fleet/) | Medium |
 | [0867-transpose-matrix](https://github.com/Nitin571/leetcode-dsa/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Nitin571/leetcode-dsa/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Nitin571/leetcode-dsa/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -270,6 +272,7 @@
 | [0496-next-greater-element-i](https://github.com/Nitin571/leetcode-dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Nitin571/leetcode-dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0853-car-fleet](https://github.com/Nitin571/leetcode-dsa/tree/main/0853-car-fleet/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/Nitin571/leetcode-dsa/tree/main/0946-validate-stack-sequences/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nitin571/leetcode-dsa/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Monotonic Stack
@@ -277,6 +280,7 @@
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Nitin571/leetcode-dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0853-car-fleet](https://github.com/Nitin571/leetcode-dsa/tree/main/0853-car-fleet/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |

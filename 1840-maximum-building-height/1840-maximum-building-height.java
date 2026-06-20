@@ -12,7 +12,7 @@ class Solution {
         }
 
         arr[m+1][0] = n;
-        arr[m+1][1] = n+1;
+        arr[m+1][1] = n-1;
 
         Arrays.sort(arr, (a, b) -> Integer.compare(a[0], b[0]));
 

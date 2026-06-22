@@ -275,6 +275,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/Nitin571/leetcode-dsa/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Nitin571/leetcode-dsa/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/Nitin571/leetcode-dsa/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Nitin571/leetcode-dsa/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nitin571/leetcode-dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -372,6 +373,7 @@
 | [0692-top-k-frequent-words](https://github.com/Nitin571/leetcode-dsa/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/Nitin571/leetcode-dsa/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/Nitin571/leetcode-dsa/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Nitin571/leetcode-dsa/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Nitin571/leetcode-dsa/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
@@ -460,6 +462,7 @@
 | [0383-ransom-note](https://github.com/Nitin571/leetcode-dsa/tree/main/0383-ransom-note/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Nitin571/leetcode-dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Nitin571/leetcode-dsa/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Nitin571/leetcode-dsa/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |

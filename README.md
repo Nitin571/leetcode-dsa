@@ -188,6 +188,7 @@
 | [2126-destroying-asteroids](https://github.com/Nitin571/leetcode-dsa/tree/main/2126-destroying-asteroids/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Nitin571/leetcode-dsa/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Nitin571/leetcode-dsa/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Math
@@ -215,6 +216,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nitin571/leetcode-dsa/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1840-maximum-building-height](https://github.com/Nitin571/leetcode-dsa/tree/main/1840-maximum-building-height/) | Hard |
 | [2769-find-the-maximum-achievable-number](https://github.com/Nitin571/leetcode-dsa/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |

@@ -191,6 +191,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -286,6 +287,7 @@
 | [0953-verifying-an-alien-dictionary](https://github.com/Nitin571/leetcode-dsa/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Nitin571/leetcode-dsa/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nitin571/leetcode-dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -360,6 +362,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Nitin571/leetcode-dsa/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Nitin571/leetcode-dsa/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Nitin571/leetcode-dsa/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -414,6 +417,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Nitin571/leetcode-dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Nitin571/leetcode-dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -475,6 +479,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Nitin571/leetcode-dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Nitin571/leetcode-dsa/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Nitin571/leetcode-dsa/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -491,6 +496,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Nitin571/leetcode-dsa/tree/main/0148-sort-list/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -536,6 +542,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |

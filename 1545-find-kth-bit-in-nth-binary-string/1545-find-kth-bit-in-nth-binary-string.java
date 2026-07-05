@@ -9,12 +9,10 @@ class Solution {
                 else
                     temp.append('0');
             }
-
             temp.reverse();
             sb.append('1');
             sb.append(temp);
         }
-
         return sb.charAt(k - 1);
     }
 }

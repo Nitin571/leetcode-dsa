@@ -75,6 +75,7 @@
 | [0853-car-fleet](https://github.com/Nitin571/leetcode-dsa/tree/main/0853-car-fleet/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Nitin571/leetcode-dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/Nitin571/leetcode-dsa/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nitin571/leetcode-dsa/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Nitin571/leetcode-dsa/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nitin571/leetcode-dsa/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
@@ -179,6 +180,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Nitin571/leetcode-dsa/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nitin571/leetcode-dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/Nitin571/leetcode-dsa/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/Nitin571/leetcode-dsa/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nitin571/leetcode-dsa/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Nitin571/leetcode-dsa/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nitin571/leetcode-dsa/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |

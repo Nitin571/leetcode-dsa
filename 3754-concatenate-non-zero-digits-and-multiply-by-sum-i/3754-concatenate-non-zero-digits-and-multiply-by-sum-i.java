@@ -1,16 +1,20 @@
 class Solution {
     public long sumAndMultiply(int n) {
-        String s = String.valueOf(n);
-        String result = "";
+        String s = Integer.toString(n);
+        StringBuilder sb = new StringBuilder("");
         int sum = 0;
 
-        for (char ch : s.toCharArray()) {
-            if (ch != '0') {
-                result += ch;   
-                sum += ch - '0';
+        for(int i=0;i<s.length();i++){
+            char ch = s.charAt(i);
+            if(ch != '0'){
+                sb.append(ch);
+                sum += ch-'0';
             }
         }
+        if(sb.length() == 0){
+            return 0;
+        }
 
-        return result.isEmpty() ? 0 : Long.parseLong(result) * sum;
+        return (long)Integer.parseInt(sb.toString()) * sum;
     }
 }

@@ -196,6 +196,7 @@
 | [1840-maximum-building-height](https://github.com/Nitin571/leetcode-dsa/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nitin571/leetcode-dsa/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nitin571/leetcode-dsa/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin571/leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Nitin571/leetcode-dsa/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Nitin571/leetcode-dsa/tree/main/2126-destroying-asteroids/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Nitin571/leetcode-dsa/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -233,6 +234,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nitin571/leetcode-dsa/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nitin571/leetcode-dsa/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1840-maximum-building-height](https://github.com/Nitin571/leetcode-dsa/tree/main/1840-maximum-building-height/) | Hard |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin571/leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Nitin571/leetcode-dsa/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -615,4 +617,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin571/leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->

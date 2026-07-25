@@ -86,6 +86,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nitin571/leetcode-dsa/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Nitin571/leetcode-dsa/tree/main/2126-destroying-asteroids/) | Medium |
 | [2418-sort-the-people](https://github.com/Nitin571/leetcode-dsa/tree/main/2418-sort-the-people/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/Nitin571/leetcode-dsa/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,6 +238,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin571/leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Nitin571/leetcode-dsa/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/Nitin571/leetcode-dsa/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Greedy

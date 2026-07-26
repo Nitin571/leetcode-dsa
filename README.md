@@ -70,6 +70,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Nitin571/leetcode-dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/Nitin571/leetcode-dsa/tree/main/0455-assign-cookies/) | Easy |
 | [0506-relative-ranks](https://github.com/Nitin571/leetcode-dsa/tree/main/0506-relative-ranks/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Nitin571/leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Nitin571/leetcode-dsa/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/Nitin571/leetcode-dsa/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/Nitin571/leetcode-dsa/tree/main/0826-most-profit-assigning-work/) | Medium |
@@ -161,6 +162,7 @@
 | [0506-relative-ranks](https://github.com/Nitin571/leetcode-dsa/tree/main/0506-relative-ranks/) | Easy |
 | [0525-contiguous-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Nitin571/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Nitin571/leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Nitin571/leetcode-dsa/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Nitin571/leetcode-dsa/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -226,6 +228,7 @@
 | [0396-rotate-function](https://github.com/Nitin571/leetcode-dsa/tree/main/0396-rotate-function/) | Medium |
 | [0412-fizz-buzz](https://github.com/Nitin571/leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Nitin571/leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Nitin571/leetcode-dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Nitin571/leetcode-dsa/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nitin571/leetcode-dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |

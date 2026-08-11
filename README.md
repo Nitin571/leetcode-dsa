@@ -89,6 +89,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nitin571/leetcode-dsa/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Nitin571/leetcode-dsa/tree/main/2126-destroying-asteroids/) | Medium |
 | [2418-sort-the-people](https://github.com/Nitin571/leetcode-dsa/tree/main/2418-sort-the-people/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Nitin571/leetcode-dsa/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Binary Tree
@@ -211,6 +212,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Nitin571/leetcode-dsa/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2418-sort-the-people](https://github.com/Nitin571/leetcode-dsa/tree/main/2418-sort-the-people/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Nitin571/leetcode-dsa/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Nitin571/leetcode-dsa/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/3477-fruits-into-baskets-ii/) | Easy |
@@ -329,6 +331,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nitin571/leetcode-dsa/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2418-sort-the-people](https://github.com/Nitin571/leetcode-dsa/tree/main/2418-sort-the-people/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Nitin571/leetcode-dsa/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |

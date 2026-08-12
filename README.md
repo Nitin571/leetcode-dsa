@@ -212,6 +212,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Nitin571/leetcode-dsa/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2418-sort-the-people](https://github.com/Nitin571/leetcode-dsa/tree/main/2418-sort-the-people/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Nitin571/leetcode-dsa/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nitin571/leetcode-dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Nitin571/leetcode-dsa/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -331,6 +332,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nitin571/leetcode-dsa/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2418-sort-the-people](https://github.com/Nitin571/leetcode-dsa/tree/main/2418-sort-the-people/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nitin571/leetcode-dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Nitin571/leetcode-dsa/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -576,6 +578,7 @@
 | [0904-fruit-into-baskets](https://github.com/Nitin571/leetcode-dsa/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nitin571/leetcode-dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nitin571/leetcode-dsa/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nitin571/leetcode-dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |

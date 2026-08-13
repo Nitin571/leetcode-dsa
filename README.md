@@ -625,6 +625,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/Nitin571/leetcode-dsa/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/Nitin571/leetcode-dsa/tree/main/0078-subsets/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -662,4 +663,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Nitin571/leetcode-dsa/tree/main/0486-predict-the-winner/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0052-n-queens-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->

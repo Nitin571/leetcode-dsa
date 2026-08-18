@@ -225,6 +225,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Nitin571/leetcode-dsa/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Nitin571/leetcode-dsa/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/Nitin571/leetcode-dsa/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Nitin571/leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
@@ -362,6 +363,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Nitin571/leetcode-dsa/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Nitin571/leetcode-dsa/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0050-powx-n](https://github.com/Nitin571/leetcode-dsa/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/Nitin571/leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
@@ -557,6 +559,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Nitin571/leetcode-dsa/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Nitin571/leetcode-dsa/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/Nitin571/leetcode-dsa/tree/main/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/Nitin571/leetcode-dsa/tree/main/0086-partition-list/) | Medium |

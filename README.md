@@ -217,6 +217,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nitin571/leetcode-dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Nitin571/leetcode-dsa/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -394,6 +395,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Nitin571/leetcode-dsa/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nitin571/leetcode-dsa/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Nitin571/leetcode-dsa/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/3614-process-string-with-special-operations-ii/) | Hard |

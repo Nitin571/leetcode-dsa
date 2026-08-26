@@ -3,18 +3,16 @@ class Solution {
         HashSet<Integer> set = new HashSet<>();
         int num = k;
 
-        for(int a : nums){
+        for (int a : nums) {
             set.add(a);
         }
 
-        while(true){
-            if(num % k == 0){
-                if(!set.contains(num)){
-                    return num;
-                }else{
-                    num += k;
-                }
+        while (true) {
+            if (!set.contains(num)) {
+                return num;
             }
+
+            num += k;
         }
     }
 }

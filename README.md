@@ -210,6 +210,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nitin571/leetcode-dsa/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin571/leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Nitin571/leetcode-dsa/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Nitin571/leetcode-dsa/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Nitin571/leetcode-dsa/tree/main/2126-destroying-asteroids/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Nitin571/leetcode-dsa/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2418-sort-the-people](https://github.com/Nitin571/leetcode-dsa/tree/main/2418-sort-the-people/) | Easy |
@@ -283,6 +284,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Nitin571/leetcode-dsa/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nitin571/leetcode-dsa/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1927-sum-game](https://github.com/Nitin571/leetcode-dsa/tree/main/1927-sum-game/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Nitin571/leetcode-dsa/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Nitin571/leetcode-dsa/tree/main/2126-destroying-asteroids/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3689-maximum-total-subarray-value-i/) | Medium |

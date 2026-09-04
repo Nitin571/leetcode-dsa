@@ -136,6 +136,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Nitin571/leetcode-dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Nitin571/leetcode-dsa/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0090-subsets-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0090-subsets-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/Nitin571/leetcode-dsa/tree/main/0118-pascals-triangle/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Nitin571/leetcode-dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -298,6 +299,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Nitin571/leetcode-dsa/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Nitin571/leetcode-dsa/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Nitin571/leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
@@ -654,6 +656,7 @@
 | [0051-n-queens](https://github.com/Nitin571/leetcode-dsa/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/Nitin571/leetcode-dsa/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0090-subsets-ii/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |

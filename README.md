@@ -146,6 +146,7 @@
 | [0134-gas-station](https://github.com/Nitin571/leetcode-dsa/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nitin571/leetcode-dsa/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Nitin571/leetcode-dsa/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Nitin571/leetcode-dsa/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nitin571/leetcode-dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -427,6 +428,7 @@
 | [0118-pascals-triangle](https://github.com/Nitin571/leetcode-dsa/tree/main/0118-pascals-triangle/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/Nitin571/leetcode-dsa/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0338-counting-bits](https://github.com/Nitin571/leetcode-dsa/tree/main/0338-counting-bits/) | Easy |
 | [0396-rotate-function](https://github.com/Nitin571/leetcode-dsa/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Nitin571/leetcode-dsa/tree/main/0486-predict-the-winner/) | Medium |

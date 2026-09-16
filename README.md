@@ -469,6 +469,7 @@
 | [0014-longest-common-prefix](https://github.com/Nitin571/leetcode-dsa/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Nitin571/leetcode-dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0068-text-justification](https://github.com/Nitin571/leetcode-dsa/tree/main/0068-text-justification/) | Hard |
+| [0151-reverse-words-in-a-string](https://github.com/Nitin571/leetcode-dsa/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0179-largest-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0179-largest-number/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -562,6 +563,7 @@
 | [0086-partition-list](https://github.com/Nitin571/leetcode-dsa/tree/main/0086-partition-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/Nitin571/leetcode-dsa/tree/main/0148-sort-list/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/Nitin571/leetcode-dsa/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nitin571/leetcode-dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Nitin571/leetcode-dsa/tree/main/0283-move-zeroes/) | Easy |

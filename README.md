@@ -292,6 +292,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Nitin571/leetcode-dsa/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/Nitin571/leetcode-dsa/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nitin571/leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Nitin571/leetcode-dsa/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Nitin571/leetcode-dsa/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nitin571/leetcode-dsa/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
@@ -381,6 +382,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Nitin571/leetcode-dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/Nitin571/leetcode-dsa/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/Nitin571/leetcode-dsa/tree/main/0853-car-fleet/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nitin571/leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/Nitin571/leetcode-dsa/tree/main/0946-validate-stack-sequences/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nitin571/leetcode-dsa/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Monotonic Stack
@@ -487,6 +489,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Nitin571/leetcode-dsa/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/Nitin571/leetcode-dsa/tree/main/0720-longest-word-in-dictionary/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nitin571/leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/Nitin571/leetcode-dsa/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Nitin571/leetcode-dsa/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nitin571/leetcode-dsa/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -724,4 +727,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0052-n-queens-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0052-n-queens-ii/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nitin571/leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->

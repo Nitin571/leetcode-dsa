@@ -327,6 +327,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Nitin571/leetcode-dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/Nitin571/leetcode-dsa/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Nitin571/leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/Nitin571/leetcode-dsa/tree/main/0041-first-missing-positive/) | Hard |
@@ -468,6 +469,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Nitin571/leetcode-dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Nitin571/leetcode-dsa/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0012-integer-to-roman](https://github.com/Nitin571/leetcode-dsa/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Nitin571/leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
@@ -629,6 +631,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Nitin571/leetcode-dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Nitin571/leetcode-dsa/tree/main/0239-sliding-window-maximum/) | Hard |

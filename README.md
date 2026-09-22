@@ -209,6 +209,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Nitin571/leetcode-dsa/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Nitin571/leetcode-dsa/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nitin571/leetcode-dsa/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nitin571/leetcode-dsa/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Nitin571/leetcode-dsa/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -463,6 +464,7 @@
 | [0724-find-pivot-index](https://github.com/Nitin571/leetcode-dsa/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Nitin571/leetcode-dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nitin571/leetcode-dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nitin571/leetcode-dsa/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Nitin571/leetcode-dsa/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Nitin571/leetcode-dsa/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Nitin571/leetcode-dsa/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -645,6 +647,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Nitin571/leetcode-dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nitin571/leetcode-dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nitin571/leetcode-dsa/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nitin571/leetcode-dsa/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nitin571/leetcode-dsa/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nitin571/leetcode-dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nitin571/leetcode-dsa/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |

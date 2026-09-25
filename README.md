@@ -227,6 +227,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin571/leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Nitin571/leetcode-dsa/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Nitin571/leetcode-dsa/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/Nitin571/leetcode-dsa/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Nitin571/leetcode-dsa/tree/main/2126-destroying-asteroids/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nitin571/leetcode-dsa/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Nitin571/leetcode-dsa/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -400,6 +401,7 @@
 | [0853-car-fleet](https://github.com/Nitin571/leetcode-dsa/tree/main/0853-car-fleet/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nitin571/leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/Nitin571/leetcode-dsa/tree/main/0946-validate-stack-sequences/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/Nitin571/leetcode-dsa/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nitin571/leetcode-dsa/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -408,6 +410,7 @@
 | [0654-maximum-binary-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0739-daily-temperatures](https://github.com/Nitin571/leetcode-dsa/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/Nitin571/leetcode-dsa/tree/main/0853-car-fleet/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/Nitin571/leetcode-dsa/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |

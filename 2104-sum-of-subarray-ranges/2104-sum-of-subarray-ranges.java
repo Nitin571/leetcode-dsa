@@ -1,67 +1,60 @@
 class Solution {
-
     public long subArrayRanges(int[] nums) {
-
-        return sumMax(nums) - sumMin(nums);
-    }
-
-    private long sumMin(int[] nums) {
-
         int n = nums.length;
-        long sum = 0;
+        int[] prevSmall = new int[n];
+        int[] nextSmall = new int[n];
+        int[] prevLarge = new int[n];
+        int[] nextLarge = new int[n];
 
+        // previous smaller
         Stack<Integer> st = new Stack<>();
-
-        for (int i = 0; i <= n; i++) {
-
-            while (!st.isEmpty() &&
-                  (i == n || nums[st.peek()] >= nums[i])) {
-
-                int index = st.pop();
-
-                int left = st.isEmpty() ? -1 : st.peek();
-                int right = i;
-
-                sum += (long) nums[index]
-                     * (index - left)
-                     * (right - index);
+        for(int i=0;i<n;i++){
+            while(!st.isEmpty() && nums[i] <= nums[st.peek()]){
+                st.pop();
             }
-
-            if (i < n) {
-                st.push(i);
-            }
+            prevSmall[i] = st.isEmpty() ? -1 : st.peek();
+            st.push(i);
         }
 
-        return sum;
-    }
-
-    private long sumMax(int[] nums) {
-
-        int n = nums.length;
-        long sum = 0;
-
-        Stack<Integer> st = new Stack<>();
-
-        for (int i = 0; i <= n; i++) {
-
-            while (!st.isEmpty() &&
-                  (i == n || nums[st.peek()] <= nums[i])) {
-
-                int index = st.pop();
-
-                int left = st.isEmpty() ? -1 : st.peek();
-                int right = i;
-
-                sum += (long) nums[index]
-                     * (index - left)
-                     * (right - index);
+        // next smaller 
+        st.clear();
+        for (int i = n-1;i >= 0;i--) {
+            while (!st.isEmpty() && nums[st.peek()] > nums[i]) {
+                st.pop();
             }
-
-            if (i < n) {
-                st.push(i);
-            }
+            nextSmall[i] = st.isEmpty() ? n : st.peek();
+            st.push(i);
         }
 
-        return sum;
+        // previous greater
+        st.clear();
+        for (int i=0;i<n;i++) {
+            while (!st.isEmpty() && nums[st.peek()] <= nums[i]) {
+                st.pop();
+            }
+            prevLarge[i] = st.isEmpty() ? -1 : st.peek();
+            st.push(i);
+        }
+
+        // next greater
+        st.clear();
+        for (int i = n - 1; i >= 0; i--) {
+            while (!st.isEmpty() && nums[st.peek()] < nums[i]) {
+                st.pop();
+            }
+            nextLarge[i] = st.isEmpty() ? n : st.peek();
+            st.push(i);
+        }
+        long minSum = 0;
+        long maxSum = 0;
+        for (int i = 0; i < n; i++) {
+            long left = i - prevSmall[i];
+            long right = nextSmall[i] - i;
+            minSum += (long) nums[i] * left * right;
+            left = i - prevLarge[i];
+            right = nextLarge[i] - i;
+            maxSum += (long) nums[i] * left * right;
+        }
+        return maxSum - minSum;
     }
 }

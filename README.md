@@ -220,6 +220,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Nitin571/leetcode-dsa/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Nitin571/leetcode-dsa/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nitin571/leetcode-dsa/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nitin571/leetcode-dsa/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nitin571/leetcode-dsa/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Nitin571/leetcode-dsa/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Nitin571/leetcode-dsa/tree/main/1840-maximum-building-height/) | Hard |
@@ -380,6 +381,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Nitin571/leetcode-dsa/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nitin571/leetcode-dsa/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Nitin571/leetcode-dsa/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nitin571/leetcode-dsa/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2418-sort-the-people](https://github.com/Nitin571/leetcode-dsa/tree/main/2418-sort-the-people/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nitin571/leetcode-dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -530,6 +532,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Nitin571/leetcode-dsa/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Nitin571/leetcode-dsa/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Nitin571/leetcode-dsa/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nitin571/leetcode-dsa/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/Nitin571/leetcode-dsa/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nitin571/leetcode-dsa/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2418-sort-the-people](https://github.com/Nitin571/leetcode-dsa/tree/main/2418-sort-the-people/) | Easy |

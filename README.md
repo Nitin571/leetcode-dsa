@@ -196,6 +196,7 @@
 | [0875-koko-eating-bananas](https://github.com/Nitin571/leetcode-dsa/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Nitin571/leetcode-dsa/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Nitin571/leetcode-dsa/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/Nitin571/leetcode-dsa/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/Nitin571/leetcode-dsa/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Nitin571/leetcode-dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -374,6 +375,7 @@
 | [0706-design-hashmap](https://github.com/Nitin571/leetcode-dsa/tree/main/0706-design-hashmap/) | Easy |
 | [0720-longest-word-in-dictionary](https://github.com/Nitin571/leetcode-dsa/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Nitin571/leetcode-dsa/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/Nitin571/leetcode-dsa/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Nitin571/leetcode-dsa/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nitin571/leetcode-dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -488,6 +490,7 @@
 | [0525-contiguous-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Nitin571/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Nitin571/leetcode-dsa/tree/main/0724-find-pivot-index/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nitin571/leetcode-dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nitin571/leetcode-dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nitin571/leetcode-dsa/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -680,6 +683,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Nitin571/leetcode-dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Nitin571/leetcode-dsa/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Nitin571/leetcode-dsa/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nitin571/leetcode-dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nitin571/leetcode-dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nitin571/leetcode-dsa/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |

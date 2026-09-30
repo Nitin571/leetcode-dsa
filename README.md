@@ -176,6 +176,7 @@
 | [0485-max-consecutive-ones](https://github.com/Nitin571/leetcode-dsa/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/Nitin571/leetcode-dsa/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Nitin571/leetcode-dsa/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/Nitin571/leetcode-dsa/tree/main/0506-relative-ranks/) | Easy |
 | [0525-contiguous-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Nitin571/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -404,6 +405,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nitin571/leetcode-dsa/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0402-remove-k-digits](https://github.com/Nitin571/leetcode-dsa/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Nitin571/leetcode-dsa/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Nitin571/leetcode-dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/Nitin571/leetcode-dsa/tree/main/0735-asteroid-collision/) | Medium |
@@ -422,6 +424,7 @@
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/Nitin571/leetcode-dsa/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Nitin571/leetcode-dsa/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0739-daily-temperatures](https://github.com/Nitin571/leetcode-dsa/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/Nitin571/leetcode-dsa/tree/main/0853-car-fleet/) | Medium |

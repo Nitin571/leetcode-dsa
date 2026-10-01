@@ -421,6 +421,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nitin571/leetcode-dsa/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nitin571/leetcode-dsa/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nitin571/leetcode-dsa/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nitin571/leetcode-dsa/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/Nitin571/leetcode-dsa/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nitin571/leetcode-dsa/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -553,6 +554,7 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nitin571/leetcode-dsa/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Nitin571/leetcode-dsa/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nitin571/leetcode-dsa/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nitin571/leetcode-dsa/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Nitin571/leetcode-dsa/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nitin571/leetcode-dsa/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |

@@ -2,31 +2,31 @@ class Solution {
     public String smallestSubsequence(String s) {
         int n = s.length();
         Stack<Character> st = new Stack<>();
-        HashMap<Character, Boolean> map = new HashMap<>();
-        HashMap<Character, Integer> last = new HashMap<>();
-
-        for(int i=0;i<n;i++){
-            last.put(s.charAt(i),i);
-        }
-        for(int i=0;i<s.length();i++){
+        boolean[] taken = new boolean[26];
+        int[] lastIndex = new int[26];
+        for (int i = 0; i < n; i++) {
             char ch = s.charAt(i);
-            if(map.containsKey(ch)){
-                continue;
-            }
-
-            while(!st.isEmpty() && st.peek() > ch && last.get(st.peek()) > i){
-                map.remove(st.pop());
-            }
-
-            st.push(ch);
-            map.put(ch,true);
+            lastIndex[ch - 'a'] = i;
         }
-
-        StringBuilder sb = new StringBuilder();
-        while(!st.isEmpty()){
-            sb.append(st.pop());
+        
+        for (int i = 0; i < n; i++) {
+            int idx = s.charAt(i) - 'a';
+            
+            if (taken[idx]) continue;
+            
+            while (!st.isEmpty() && s.charAt(i) < st.peek() && lastIndex[st.peek() - 'a'] > i) {
+                taken[st.pop() - 'a'] = false;
+            }
+            
+            st.push(s.charAt(i));
+            taken[idx] = true;
         }
-
-        return sb.reverse().toString();
+        
+        StringBuilder result = new StringBuilder();
+        while (!st.isEmpty()) {
+            result.append(st.pop());
+        }
+        
+        return result.reverse().toString();
     }
 }

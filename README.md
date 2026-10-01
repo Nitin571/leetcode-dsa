@@ -795,6 +795,7 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Nitin571/leetcode-dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nitin571/leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nitin571/leetcode-dsa/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nitin571/leetcode-dsa/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |

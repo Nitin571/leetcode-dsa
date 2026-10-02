@@ -479,6 +479,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Nitin571/leetcode-dsa/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/Nitin571/leetcode-dsa/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Nitin571/leetcode-dsa/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/Nitin571/leetcode-dsa/tree/main/0118-pascals-triangle/) | Easy |
@@ -526,6 +527,7 @@
 | [0013-roman-to-integer](https://github.com/Nitin571/leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Nitin571/leetcode-dsa/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Nitin571/leetcode-dsa/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Nitin571/leetcode-dsa/tree/main/0022-generate-parentheses/) | Medium |
 | [0068-text-justification](https://github.com/Nitin571/leetcode-dsa/tree/main/0068-text-justification/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Nitin571/leetcode-dsa/tree/main/0076-minimum-window-substring/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Nitin571/leetcode-dsa/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -759,6 +761,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Nitin571/leetcode-dsa/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/Nitin571/leetcode-dsa/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/Nitin571/leetcode-dsa/tree/main/0078-subsets/) | Medium |
@@ -808,6 +811,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Nitin571/leetcode-dsa/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Nitin571/leetcode-dsa/tree/main/0022-generate-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nitin571/leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nitin571/leetcode-dsa/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nitin571/leetcode-dsa/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |

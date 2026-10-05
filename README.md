@@ -433,6 +433,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Nitin571/leetcode-dsa/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/Nitin571/leetcode-dsa/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nitin571/leetcode-dsa/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/Nitin571/leetcode-dsa/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -449,6 +450,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nitin571/leetcode-dsa/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nitin571/leetcode-dsa/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/Nitin571/leetcode-dsa/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/Nitin571/leetcode-dsa/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -460,6 +462,7 @@
 | [0509-fibonacci-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Nitin571/leetcode-dsa/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nitin571/leetcode-dsa/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/Nitin571/leetcode-dsa/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nitin571/leetcode-dsa/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -704,6 +707,7 @@
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Nitin571/leetcode-dsa/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nitin571/leetcode-dsa/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nitin571/leetcode-dsa/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/Nitin571/leetcode-dsa/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |

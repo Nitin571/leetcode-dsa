@@ -79,6 +79,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Nitin571/leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Nitin571/leetcode-dsa/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/Nitin571/leetcode-dsa/tree/main/0720-longest-word-in-dictionary/) | Medium |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0769-max-chunks-to-make-sorted](https://github.com/Nitin571/leetcode-dsa/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/Nitin571/leetcode-dsa/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0853-car-fleet](https://github.com/Nitin571/leetcode-dsa/tree/main/0853-car-fleet/) | Medium |
@@ -191,6 +192,7 @@
 | [0724-find-pivot-index](https://github.com/Nitin571/leetcode-dsa/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/Nitin571/leetcode-dsa/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Nitin571/leetcode-dsa/tree/main/0739-daily-temperatures/) | Medium |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0769-max-chunks-to-make-sorted](https://github.com/Nitin571/leetcode-dsa/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Nitin571/leetcode-dsa/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/Nitin571/leetcode-dsa/tree/main/0826-most-profit-assigning-work/) | Medium |
@@ -314,6 +316,7 @@
 | [0455-assign-cookies](https://github.com/Nitin571/leetcode-dsa/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Nitin571/leetcode-dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0769-max-chunks-to-make-sorted](https://github.com/Nitin571/leetcode-dsa/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Nitin571/leetcode-dsa/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/Nitin571/leetcode-dsa/tree/main/0826-most-profit-assigning-work/) | Medium |
@@ -420,6 +423,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Nitin571/leetcode-dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/Nitin571/leetcode-dsa/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Nitin571/leetcode-dsa/tree/main/0739-daily-temperatures/) | Medium |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0769-max-chunks-to-make-sorted](https://github.com/Nitin571/leetcode-dsa/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0853-car-fleet](https://github.com/Nitin571/leetcode-dsa/tree/main/0853-car-fleet/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Nitin571/leetcode-dsa/tree/main/0856-score-of-parentheses/) | Medium |
@@ -448,6 +452,7 @@
 | [0503-next-greater-element-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0739-daily-temperatures](https://github.com/Nitin571/leetcode-dsa/tree/main/0739-daily-temperatures/) | Medium |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0769-max-chunks-to-make-sorted](https://github.com/Nitin571/leetcode-dsa/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0853-car-fleet](https://github.com/Nitin571/leetcode-dsa/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/Nitin571/leetcode-dsa/tree/main/0901-online-stock-span/) | Medium |

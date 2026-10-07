@@ -278,6 +278,7 @@
 | [0268-missing-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0396-rotate-function](https://github.com/Nitin571/leetcode-dsa/tree/main/0396-rotate-function/) | Medium |
 | [0412-fizz-buzz](https://github.com/Nitin571/leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/Nitin571/leetcode-dsa/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nitin571/leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -418,6 +419,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nitin571/leetcode-dsa/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Nitin571/leetcode-dsa/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/Nitin571/leetcode-dsa/tree/main/0402-remove-k-digits/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Nitin571/leetcode-dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -716,6 +718,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/Nitin571/leetcode-dsa/tree/main/0148-sort-list/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0706-design-hashmap](https://github.com/Nitin571/leetcode-dsa/tree/main/0706-design-hashmap/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Nitin571/leetcode-dsa/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nitin571/leetcode-dsa/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |

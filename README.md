@@ -225,6 +225,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nitin571/leetcode-dsa/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nitin571/leetcode-dsa/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Nitin571/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nitin571/leetcode-dsa/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nitin571/leetcode-dsa/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Nitin571/leetcode-dsa/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -290,6 +291,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nitin571/leetcode-dsa/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Nitin571/leetcode-dsa/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Nitin571/leetcode-dsa/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/Nitin571/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nitin571/leetcode-dsa/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nitin571/leetcode-dsa/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1840-maximum-building-height](https://github.com/Nitin571/leetcode-dsa/tree/main/1840-maximum-building-height/) | Hard |
@@ -399,6 +401,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nitin571/leetcode-dsa/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Nitin571/leetcode-dsa/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/Nitin571/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nitin571/leetcode-dsa/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Nitin571/leetcode-dsa/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nitin571/leetcode-dsa/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -716,6 +719,7 @@
 | [0692-top-k-frequent-words](https://github.com/Nitin571/leetcode-dsa/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Nitin571/leetcode-dsa/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Nitin571/leetcode-dsa/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Nitin571/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Nitin571/leetcode-dsa/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Linked List

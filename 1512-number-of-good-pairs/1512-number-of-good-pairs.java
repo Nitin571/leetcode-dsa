@@ -1,17 +1,15 @@
 class Solution {
     public int numIdenticalPairs(int[] nums) {
+        int[] freq = new int[101];
 
-        HashMap<Integer, Integer> map = new HashMap<>();
+        for(int i = 0 ; i < nums.length ; i++){
+            freq[nums[i]]++;
+        }
 
         int ans = 0;
 
-        for (int num : nums) {
-
-            int count = map.getOrDefault(num, 0);
-
-            ans += count;
-
-            map.put(num, count + 1);
+        for(int i = 1 ; i <= 100; i++){
+            ans += (freq[i]*(freq[i]-1))/2;
         }
 
         return ans;

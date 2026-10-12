@@ -12,6 +12,9 @@ class Solution {
         }
 
         for(int i=index;i<=9;i++){
+            if(i>n) {
+                break;
+            }
             list.add(i);
 
             backtrack(k,n-i,i+1,list,ans);

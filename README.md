@@ -136,6 +136,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Nitin571/leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/Nitin571/leetcode-dsa/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/Nitin571/leetcode-dsa/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/Nitin571/leetcode-dsa/tree/main/0051-n-queens/) | Hard |
@@ -821,6 +822,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Nitin571/leetcode-dsa/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/Nitin571/leetcode-dsa/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/Nitin571/leetcode-dsa/tree/main/0078-subsets/) | Medium |

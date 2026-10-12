@@ -6,7 +6,7 @@ class Solution {
     }
 
     void backtrack(int k,int n,int index,List<Integer> list,List<List<Integer>> ans){
-        if(n == 0 && list.size() == k){
+        if(n == 0 && k == 0){
             ans.add(new ArrayList<>(list));
             return;
         }
@@ -17,7 +17,7 @@ class Solution {
             }
             list.add(i);
 
-            backtrack(k,n-i,i+1,list,ans);
+            backtrack(k-1,n-i,i+1,list,ans);
 
             list.remove(list.size()-1);
 

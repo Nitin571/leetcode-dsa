@@ -313,6 +313,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/Nitin571/leetcode-dsa/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nitin571/leetcode-dsa/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Nitin571/leetcode-dsa/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Nitin571/leetcode-dsa/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Nitin571/leetcode-dsa/tree/main/3870-count-commas-in-range/) | Easy |
@@ -349,6 +350,7 @@
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Nitin571/leetcode-dsa/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Nitin571/leetcode-dsa/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nitin571/leetcode-dsa/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |

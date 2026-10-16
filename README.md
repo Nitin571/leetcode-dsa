@@ -157,6 +157,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Nitin571/leetcode-dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/Nitin571/leetcode-dsa/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0137-single-number-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nitin571/leetcode-dsa/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Nitin571/leetcode-dsa/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -366,6 +367,7 @@
 | [0078-subsets](https://github.com/Nitin571/leetcode-dsa/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/Nitin571/leetcode-dsa/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Nitin571/leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0268-missing-number/) | Easy |

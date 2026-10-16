@@ -305,6 +305,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nitin571/leetcode-dsa/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nitin571/leetcode-dsa/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1840-maximum-building-height](https://github.com/Nitin571/leetcode-dsa/tree/main/1840-maximum-building-height/) | Hard |
+| [1922-count-good-numbers](https://github.com/Nitin571/leetcode-dsa/tree/main/1922-count-good-numbers/) | Medium |
 | [1927-sum-game](https://github.com/Nitin571/leetcode-dsa/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin571/leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Nitin571/leetcode-dsa/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
@@ -499,6 +500,7 @@
 | [0509-fibonacci-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Nitin571/leetcode-dsa/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nitin571/leetcode-dsa/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [1922-count-good-numbers](https://github.com/Nitin571/leetcode-dsa/tree/main/1922-count-good-numbers/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Nitin571/leetcode-dsa/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nitin571/leetcode-dsa/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Queue

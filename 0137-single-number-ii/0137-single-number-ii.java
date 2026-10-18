@@ -1,14 +1,21 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        HashMap<Integer, Integer> map = new HashMap<>();
-        for (int num : nums) {
-            map.put(num, map.getOrDefault(num, 0) + 1);
-        }
-        for (int num : nums) {
-            if (map.get(num) == 1) {
-                return num;
+        int result = 0;
+        for(int k=0;k< 32;k++){
+            int temp = (1<<k);
+            int countones = 0,countzeroes = 0;
+            for(int num : nums){
+                if((num & temp) == 0){
+                    countzeroes++;
+                }else{
+                    countones++;
+                }
+            }
+
+            if(countones % 3 == 1){
+                result = (result | temp);
             }
         }
-        return -1;
+        return result;
     }
 }

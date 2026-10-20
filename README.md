@@ -106,6 +106,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/Nitin571/leetcode-dsa/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nitin571/leetcode-dsa/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Nitin571/leetcode-dsa/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -277,6 +278,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nitin571/leetcode-dsa/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3886-sum-of-sortable-integers](https://github.com/Nitin571/leetcode-dsa/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Math
@@ -327,6 +329,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Nitin571/leetcode-dsa/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/3871-count-commas-in-range-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Nitin571/leetcode-dsa/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -867,6 +870,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nitin571/leetcode-dsa/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Nitin571/leetcode-dsa/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |

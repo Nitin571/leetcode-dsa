@@ -160,6 +160,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Nitin571/leetcode-dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/Nitin571/leetcode-dsa/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/Nitin571/leetcode-dsa/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0137-single-number-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nitin571/leetcode-dsa/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -337,6 +338,7 @@
 | [0055-jump-game](https://github.com/Nitin571/leetcode-dsa/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/Nitin571/leetcode-dsa/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/Nitin571/leetcode-dsa/tree/main/0135-candy/) | Hard |
 | [0179-largest-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0179-largest-number/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Nitin571/leetcode-dsa/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/Nitin571/leetcode-dsa/tree/main/0402-remove-k-digits/) | Medium |

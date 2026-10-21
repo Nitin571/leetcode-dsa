@@ -650,6 +650,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Nitin571/leetcode-dsa/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |

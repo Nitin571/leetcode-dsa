@@ -325,6 +325,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/Nitin571/leetcode-dsa/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nitin571/leetcode-dsa/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Nitin571/leetcode-dsa/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Nitin571/leetcode-dsa/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Nitin571/leetcode-dsa/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -889,6 +890,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin571/leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Nitin571/leetcode-dsa/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |

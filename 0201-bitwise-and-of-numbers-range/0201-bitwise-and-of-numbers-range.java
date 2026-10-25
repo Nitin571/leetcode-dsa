@@ -7,6 +7,6 @@ class Solution {
             shift++;
         }
 
-        return (right << shift);
+        return (left << shift);
     }
 }

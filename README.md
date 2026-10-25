@@ -390,6 +390,7 @@
 | [0389-find-the-difference](https://github.com/Nitin571/leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0476-number-complement](https://github.com/Nitin571/leetcode-dsa/tree/main/0476-number-complement/) | Easy |
 | [0832-flipping-an-image](https://github.com/Nitin571/leetcode-dsa/tree/main/0832-flipping-an-image/) | Easy |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Nitin571/leetcode-dsa/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Nitin571/leetcode-dsa/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Nitin571/leetcode-dsa/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Hash Table

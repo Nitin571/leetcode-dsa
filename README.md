@@ -189,6 +189,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/Nitin571/leetcode-dsa/tree/main/0455-assign-cookies/) | Easy |
+| [0477-total-hamming-distance](https://github.com/Nitin571/leetcode-dsa/tree/main/0477-total-hamming-distance/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Nitin571/leetcode-dsa/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/Nitin571/leetcode-dsa/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Nitin571/leetcode-dsa/tree/main/0496-next-greater-element-i/) | Easy |
@@ -302,6 +303,7 @@
 | [0396-rotate-function](https://github.com/Nitin571/leetcode-dsa/tree/main/0396-rotate-function/) | Medium |
 | [0412-fizz-buzz](https://github.com/Nitin571/leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0477-total-hamming-distance](https://github.com/Nitin571/leetcode-dsa/tree/main/0477-total-hamming-distance/) | Medium |
 | [0486-predict-the-winner](https://github.com/Nitin571/leetcode-dsa/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nitin571/leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -390,6 +392,7 @@
 | [0338-counting-bits](https://github.com/Nitin571/leetcode-dsa/tree/main/0338-counting-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/Nitin571/leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0476-number-complement](https://github.com/Nitin571/leetcode-dsa/tree/main/0476-number-complement/) | Easy |
+| [0477-total-hamming-distance](https://github.com/Nitin571/leetcode-dsa/tree/main/0477-total-hamming-distance/) | Medium |
 | [0832-flipping-an-image](https://github.com/Nitin571/leetcode-dsa/tree/main/0832-flipping-an-image/) | Easy |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Nitin571/leetcode-dsa/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Nitin571/leetcode-dsa/tree/main/1386-cinema-seat-allocation/) | Medium |

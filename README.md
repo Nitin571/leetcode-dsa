@@ -399,6 +399,7 @@
 | [0268-missing-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/Nitin571/leetcode-dsa/tree/main/0338-counting-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/Nitin571/leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
+| [0461-hamming-distance](https://github.com/Nitin571/leetcode-dsa/tree/main/0461-hamming-distance/) | Easy |
 | [0476-number-complement](https://github.com/Nitin571/leetcode-dsa/tree/main/0476-number-complement/) | Easy |
 | [0477-total-hamming-distance](https://github.com/Nitin571/leetcode-dsa/tree/main/0477-total-hamming-distance/) | Medium |
 | [0832-flipping-an-image](https://github.com/Nitin571/leetcode-dsa/tree/main/0832-flipping-an-image/) | Easy |

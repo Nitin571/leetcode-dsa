@@ -77,6 +77,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Nitin571/leetcode-dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/Nitin571/leetcode-dsa/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/Nitin571/leetcode-dsa/tree/main/0506-relative-ranks/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nitin571/leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Nitin571/leetcode-dsa/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -190,6 +191,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nitin571/leetcode-dsa/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/Nitin571/leetcode-dsa/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0477-total-hamming-distance](https://github.com/Nitin571/leetcode-dsa/tree/main/0477-total-hamming-distance/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Nitin571/leetcode-dsa/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/Nitin571/leetcode-dsa/tree/main/0486-predict-the-winner/) | Medium |
@@ -307,6 +309,7 @@
 | [0412-fizz-buzz](https://github.com/Nitin571/leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nitin571/leetcode-dsa/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0477-total-hamming-distance](https://github.com/Nitin571/leetcode-dsa/tree/main/0477-total-hamming-distance/) | Medium |
 | [0486-predict-the-winner](https://github.com/Nitin571/leetcode-dsa/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |

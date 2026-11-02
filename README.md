@@ -405,6 +405,7 @@
 | [0832-flipping-an-image](https://github.com/Nitin571/leetcode-dsa/tree/main/0832-flipping-an-image/) | Easy |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Nitin571/leetcode-dsa/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Nitin571/leetcode-dsa/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Nitin571/leetcode-dsa/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Nitin571/leetcode-dsa/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |

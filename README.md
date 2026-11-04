@@ -308,6 +308,7 @@
 | [0263-ugly-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/Nitin571/leetcode-dsa/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/Nitin571/leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Nitin571/leetcode-dsa/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0396-rotate-function](https://github.com/Nitin571/leetcode-dsa/tree/main/0396-rotate-function/) | Medium |
 | [0412-fizz-buzz](https://github.com/Nitin571/leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
@@ -403,6 +404,7 @@
 | [0260-single-number-iii](https://github.com/Nitin571/leetcode-dsa/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/Nitin571/leetcode-dsa/tree/main/0338-counting-bits/) | Easy |
+| [0342-power-of-four](https://github.com/Nitin571/leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Nitin571/leetcode-dsa/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/Nitin571/leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0461-hamming-distance](https://github.com/Nitin571/leetcode-dsa/tree/main/0461-hamming-distance/) | Easy |
@@ -541,6 +543,7 @@
 | [0231-power-of-two](https://github.com/Nitin571/leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/Nitin571/leetcode-dsa/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0326-power-of-three](https://github.com/Nitin571/leetcode-dsa/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/Nitin571/leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
 | [0486-predict-the-winner](https://github.com/Nitin571/leetcode-dsa/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Nitin571/leetcode-dsa/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |

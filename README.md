@@ -307,6 +307,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Nitin571/leetcode-dsa/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0263-ugly-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
+| [0326-power-of-three](https://github.com/Nitin571/leetcode-dsa/tree/main/0326-power-of-three/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Nitin571/leetcode-dsa/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0396-rotate-function](https://github.com/Nitin571/leetcode-dsa/tree/main/0396-rotate-function/) | Medium |
 | [0412-fizz-buzz](https://github.com/Nitin571/leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
@@ -539,6 +540,7 @@
 | [0050-powx-n](https://github.com/Nitin571/leetcode-dsa/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/Nitin571/leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/Nitin571/leetcode-dsa/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0326-power-of-three](https://github.com/Nitin571/leetcode-dsa/tree/main/0326-power-of-three/) | Easy |
 | [0486-predict-the-winner](https://github.com/Nitin571/leetcode-dsa/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Nitin571/leetcode-dsa/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |

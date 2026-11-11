@@ -104,6 +104,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nitin571/leetcode-dsa/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Nitin571/leetcode-dsa/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2418-sort-the-people](https://github.com/Nitin571/leetcode-dsa/tree/main/2418-sort-the-people/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/Nitin571/leetcode-dsa/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Nitin571/leetcode-dsa/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -272,6 +273,7 @@
 | [2418-sort-the-people](https://github.com/Nitin571/leetcode-dsa/tree/main/2418-sort-the-people/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Nitin571/leetcode-dsa/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nitin571/leetcode-dsa/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/Nitin571/leetcode-dsa/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nitin571/leetcode-dsa/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nitin571/leetcode-dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -468,6 +470,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Nitin571/leetcode-dsa/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nitin571/leetcode-dsa/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2418-sort-the-people](https://github.com/Nitin571/leetcode-dsa/tree/main/2418-sort-the-people/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/Nitin571/leetcode-dsa/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nitin571/leetcode-dsa/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nitin571/leetcode-dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |

@@ -349,6 +349,7 @@
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nitin571/leetcode-dsa/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Nitin571/leetcode-dsa/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Nitin571/leetcode-dsa/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Nitin571/leetcode-dsa/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -387,6 +388,7 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Nitin571/leetcode-dsa/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nitin571/leetcode-dsa/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Nitin571/leetcode-dsa/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |

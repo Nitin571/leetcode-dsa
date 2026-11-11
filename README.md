@@ -338,6 +338,7 @@
 | [1922-count-good-numbers](https://github.com/Nitin571/leetcode-dsa/tree/main/1922-count-good-numbers/) | Medium |
 | [1927-sum-game](https://github.com/Nitin571/leetcode-dsa/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin571/leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2235-add-two-integers](https://github.com/Nitin571/leetcode-dsa/tree/main/2235-add-two-integers/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Nitin571/leetcode-dsa/tree/main/2409-count-days-spent-together/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Nitin571/leetcode-dsa/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |

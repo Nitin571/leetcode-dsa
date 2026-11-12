@@ -142,6 +142,7 @@
 | [0016-3sum-closest](https://github.com/Nitin571/leetcode-dsa/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Nitin571/leetcode-dsa/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/Nitin571/leetcode-dsa/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/Nitin571/leetcode-dsa/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Nitin571/leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
@@ -761,6 +762,7 @@
 | [0016-3sum-closest](https://github.com/Nitin571/leetcode-dsa/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Nitin571/leetcode-dsa/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/Nitin571/leetcode-dsa/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/Nitin571/leetcode-dsa/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/Nitin571/leetcode-dsa/tree/main/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/Nitin571/leetcode-dsa/tree/main/0086-partition-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |

@@ -451,6 +451,7 @@
 | [0383-ransom-note](https://github.com/Nitin571/leetcode-dsa/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/Nitin571/leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Nitin571/leetcode-dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Nitin571/leetcode-dsa/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Nitin571/leetcode-dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -665,6 +666,7 @@
 | [0402-remove-k-digits](https://github.com/Nitin571/leetcode-dsa/tree/main/0402-remove-k-digits/) | Medium |
 | [0412-fizz-buzz](https://github.com/Nitin571/leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Nitin571/leetcode-dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Nitin571/leetcode-dsa/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Nitin571/leetcode-dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Nitin571/leetcode-dsa/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Nitin571/leetcode-dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -839,6 +841,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Nitin571/leetcode-dsa/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Nitin571/leetcode-dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Nitin571/leetcode-dsa/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Nitin571/leetcode-dsa/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Nitin571/leetcode-dsa/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |

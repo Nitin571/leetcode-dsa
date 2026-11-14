@@ -44,6 +44,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Nitin571/leetcode-dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nitin571/leetcode-dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0704-binary-search](https://github.com/Nitin571/leetcode-dsa/tree/main/0704-binary-search/) | Easy |
 | [0826-most-profit-assigning-work](https://github.com/Nitin571/leetcode-dsa/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Nitin571/leetcode-dsa/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nitin571/leetcode-dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -211,6 +212,7 @@
 | [0654-maximum-binary-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0682-baseball-game](https://github.com/Nitin571/leetcode-dsa/tree/main/0682-baseball-game/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Nitin571/leetcode-dsa/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0704-binary-search](https://github.com/Nitin571/leetcode-dsa/tree/main/0704-binary-search/) | Easy |
 | [0706-design-hashmap](https://github.com/Nitin571/leetcode-dsa/tree/main/0706-design-hashmap/) | Easy |
 | [0720-longest-word-in-dictionary](https://github.com/Nitin571/leetcode-dsa/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0724-find-pivot-index](https://github.com/Nitin571/leetcode-dsa/tree/main/0724-find-pivot-index/) | Easy |

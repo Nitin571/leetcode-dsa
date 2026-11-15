@@ -255,6 +255,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nitin571/leetcode-dsa/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Nitin571/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nitin571/leetcode-dsa/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nitin571/leetcode-dsa/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Nitin571/leetcode-dsa/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -340,6 +341,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/Nitin571/leetcode-dsa/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Nitin571/leetcode-dsa/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Nitin571/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nitin571/leetcode-dsa/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nitin571/leetcode-dsa/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1840-maximum-building-height](https://github.com/Nitin571/leetcode-dsa/tree/main/1840-maximum-building-height/) | Hard |
@@ -618,6 +620,7 @@
 | [0509-fibonacci-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Nitin571/leetcode-dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Nitin571/leetcode-dsa/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -637,6 +640,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Nitin571/leetcode-dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nitin571/leetcode-dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nitin571/leetcode-dsa/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nitin571/leetcode-dsa/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Nitin571/leetcode-dsa/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Nitin571/leetcode-dsa/tree/main/1991-find-the-middle-index-in-array/) | Easy |

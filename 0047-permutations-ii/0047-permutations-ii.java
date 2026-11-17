@@ -2,40 +2,37 @@
 class Solution {
     public List<List<Integer>> permuteUnique(int[] nums) {
         List<List<Integer>> ans = new ArrayList<>();
-        helper(nums, 0, ans);
+        List<Integer> current = new ArrayList<>();
+
+        HashMap<Integer, Integer> map = new HashMap<>();
+
+        for (int num : nums) {
+            map.put(num, map.getOrDefault(num, 0) + 1);
+        }
+
+        helper(map, current, ans, nums.length);
         return ans;
     }
 
-    private void helper(int[] nums, int index,List<List<Integer>> ans) {
+    private void helper(HashMap<Integer, Integer> map,List<Integer> current,
+    List<List<Integer>> ans,int n) {
 
-        if (index == nums.length) {
-            List<Integer> temp = new ArrayList<>();
-
-            for (int num : nums) {
-                temp.add(num);
-            }
-
-            ans.add(temp);
+        if (current.size() == n) {
+            ans.add(new ArrayList<>(current));
             return;
         }
 
-        HashSet<Integer> set = new HashSet<>();
+        for (int num : map.keySet()) {
 
-        for (int i = index; i < nums.length; i++) {
-            if (set.contains(nums[i])) continue;
+            if (map.get(num) == 0) continue;
 
-            set.add(nums[i]);
+            current.add(num);
+            map.put(num, map.get(num) - 1);
 
+            helper(map, current, ans, n);
 
-            swap(nums, index, i);
-            helper(nums, index + 1, ans);
-            swap(nums, index, i);
+            current.remove(current.size() - 1);
+            map.put(num, map.get(num) + 1);
         }
-    }
-
-    private void swap(int[] nums, int i, int j) {
-        int temp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = temp;
     }
 }

@@ -65,6 +65,7 @@
 | [0015-3sum](https://github.com/Nitin571/leetcode-dsa/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Nitin571/leetcode-dsa/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Nitin571/leetcode-dsa/tree/main/0018-4sum/) | Medium |
+| [0047-permutations-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0047-permutations-ii/) | Medium |
 | [0056-merge-intervals](https://github.com/Nitin571/leetcode-dsa/tree/main/0056-merge-intervals/) | Medium |
 | [0148-sort-list](https://github.com/Nitin571/leetcode-dsa/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Nitin571/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
@@ -153,6 +154,7 @@
 | [0040-combination-sum-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/Nitin571/leetcode-dsa/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/Nitin571/leetcode-dsa/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Nitin571/leetcode-dsa/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/Nitin571/leetcode-dsa/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Nitin571/leetcode-dsa/tree/main/0053-maximum-subarray/) | Medium |
@@ -929,6 +931,7 @@
 | [0039-combination-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Nitin571/leetcode-dsa/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/Nitin571/leetcode-dsa/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/Nitin571/leetcode-dsa/tree/main/0078-subsets/) | Medium |

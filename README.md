@@ -524,6 +524,7 @@
 | [0769-max-chunks-to-make-sorted](https://github.com/Nitin571/leetcode-dsa/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0853-car-fleet](https://github.com/Nitin571/leetcode-dsa/tree/main/0853-car-fleet/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Nitin571/leetcode-dsa/tree/main/0856-score-of-parentheses/) | Medium |
+| [0880-decoded-string-at-index](https://github.com/Nitin571/leetcode-dsa/tree/main/0880-decoded-string-at-index/) | Medium |
 | [0901-online-stock-span](https://github.com/Nitin571/leetcode-dsa/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Nitin571/leetcode-dsa/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nitin571/leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -701,6 +702,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/Nitin571/leetcode-dsa/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Nitin571/leetcode-dsa/tree/main/0784-letter-case-permutation/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Nitin571/leetcode-dsa/tree/main/0856-score-of-parentheses/) | Medium |
+| [0880-decoded-string-at-index](https://github.com/Nitin571/leetcode-dsa/tree/main/0880-decoded-string-at-index/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nitin571/leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/Nitin571/leetcode-dsa/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Nitin571/leetcode-dsa/tree/main/1021-remove-outermost-parentheses/) | Easy |

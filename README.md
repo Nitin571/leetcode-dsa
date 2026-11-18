@@ -722,6 +722,7 @@
 | [2409-count-days-spent-together](https://github.com/Nitin571/leetcode-dsa/tree/main/2409-count-days-spent-together/) | Easy |
 | [2418-sort-the-people](https://github.com/Nitin571/leetcode-dsa/tree/main/2418-sort-the-people/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nitin571/leetcode-dsa/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Nitin571/leetcode-dsa/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nitin571/leetcode-dsa/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Nitin571/leetcode-dsa/tree/main/3498-reverse-degree-of-a-string/) | Easy |

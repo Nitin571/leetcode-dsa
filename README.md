@@ -363,6 +363,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/Nitin571/leetcode-dsa/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Nitin571/leetcode-dsa/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nitin571/leetcode-dsa/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -445,6 +446,7 @@
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Nitin571/leetcode-dsa/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Nitin571/leetcode-dsa/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Nitin571/leetcode-dsa/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Nitin571/leetcode-dsa/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -590,6 +592,7 @@
 | [1922-count-good-numbers](https://github.com/Nitin571/leetcode-dsa/tree/main/1922-count-good-numbers/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Nitin571/leetcode-dsa/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/Nitin571/leetcode-dsa/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nitin571/leetcode-dsa/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -616,6 +619,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Nitin571/leetcode-dsa/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Nitin571/leetcode-dsa/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Nitin571/leetcode-dsa/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3612-process-string-with-special-operations-i/) | Medium |

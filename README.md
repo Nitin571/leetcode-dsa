@@ -12,6 +12,7 @@
 | [0617-merge-two-binary-trees](https://github.com/Nitin571/leetcode-dsa/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nitin571/leetcode-dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0894-all-possible-full-binary-trees](https://github.com/Nitin571/leetcode-dsa/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nitin571/leetcode-dsa/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nitin571/leetcode-dsa/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
@@ -128,6 +129,7 @@
 | [0617-merge-two-binary-trees](https://github.com/Nitin571/leetcode-dsa/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nitin571/leetcode-dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0894-all-possible-full-binary-trees](https://github.com/Nitin571/leetcode-dsa/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nitin571/leetcode-dsa/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nitin571/leetcode-dsa/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
@@ -582,6 +584,7 @@
 | [0394-decode-string](https://github.com/Nitin571/leetcode-dsa/tree/main/0394-decode-string/) | Medium |
 | [0486-predict-the-winner](https://github.com/Nitin571/leetcode-dsa/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
+| [0894-all-possible-full-binary-trees](https://github.com/Nitin571/leetcode-dsa/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Nitin571/leetcode-dsa/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nitin571/leetcode-dsa/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/Nitin571/leetcode-dsa/tree/main/1922-count-good-numbers/) | Medium |
@@ -636,6 +639,7 @@
 | [0486-predict-the-winner](https://github.com/Nitin571/leetcode-dsa/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Nitin571/leetcode-dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0894-all-possible-full-binary-trees](https://github.com/Nitin571/leetcode-dsa/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Nitin571/leetcode-dsa/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -644,6 +648,7 @@
 | ------- | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Nitin571/leetcode-dsa/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0509-fibonacci-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
+| [0894-all-possible-full-binary-trees](https://github.com/Nitin571/leetcode-dsa/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |

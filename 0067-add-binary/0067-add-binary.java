@@ -7,7 +7,7 @@ class Solution {
         int m = a.length()-1;
         int n = b.length()-1;
 
-        while(m >= 0 || n >= 0){
+        while(m >= 0 || n >= 0 || carry > 0){
             sum = carry;
 
             if(m >= 0){
@@ -21,10 +21,6 @@ class Solution {
 
             sb.append((sum % 2 == 0) ? '0' : '1');
             carry = (sum > 1) ? 1 : 0;      // or we can write sum/2
-        }
-
-        if(carry > 0){
-            sb.append(carry);
         }
 
         return sb.reverse().toString();

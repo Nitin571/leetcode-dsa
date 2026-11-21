@@ -324,6 +324,7 @@
 | [0029-divide-two-integers](https://github.com/Nitin571/leetcode-dsa/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/Nitin571/leetcode-dsa/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Nitin571/leetcode-dsa/tree/main/0050-powx-n/) | Medium |
+| [0067-add-binary](https://github.com/Nitin571/leetcode-dsa/tree/main/0067-add-binary/) | Easy |
 | [0089-gray-code](https://github.com/Nitin571/leetcode-dsa/tree/main/0089-gray-code/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nitin571/leetcode-dsa/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -426,6 +427,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Nitin571/leetcode-dsa/tree/main/0029-divide-two-integers/) | Medium |
+| [0067-add-binary](https://github.com/Nitin571/leetcode-dsa/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/Nitin571/leetcode-dsa/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/Nitin571/leetcode-dsa/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0090-subsets-ii/) | Medium |
@@ -606,6 +608,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Nitin571/leetcode-dsa/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0067-add-binary](https://github.com/Nitin571/leetcode-dsa/tree/main/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/Nitin571/leetcode-dsa/tree/main/0068-text-justification/) | Hard |
 | [0412-fizz-buzz](https://github.com/Nitin571/leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
 | [0682-baseball-game](https://github.com/Nitin571/leetcode-dsa/tree/main/0682-baseball-game/) | Easy |
@@ -691,6 +694,7 @@
 | [0020-valid-parentheses](https://github.com/Nitin571/leetcode-dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Nitin571/leetcode-dsa/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Nitin571/leetcode-dsa/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0067-add-binary](https://github.com/Nitin571/leetcode-dsa/tree/main/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/Nitin571/leetcode-dsa/tree/main/0068-text-justification/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Nitin571/leetcode-dsa/tree/main/0076-minimum-window-substring/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Nitin571/leetcode-dsa/tree/main/0131-palindrome-partitioning/) | Medium |

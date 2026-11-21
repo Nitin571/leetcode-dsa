@@ -324,6 +324,7 @@
 | [0029-divide-two-integers](https://github.com/Nitin571/leetcode-dsa/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/Nitin571/leetcode-dsa/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Nitin571/leetcode-dsa/tree/main/0050-powx-n/) | Medium |
+| [0089-gray-code](https://github.com/Nitin571/leetcode-dsa/tree/main/0089-gray-code/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nitin571/leetcode-dsa/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0202-happy-number/) | Easy |
@@ -426,6 +427,7 @@
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Nitin571/leetcode-dsa/tree/main/0029-divide-two-integers/) | Medium |
 | [0078-subsets](https://github.com/Nitin571/leetcode-dsa/tree/main/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/Nitin571/leetcode-dsa/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Nitin571/leetcode-dsa/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0137-single-number-ii/) | Medium |
@@ -957,6 +959,7 @@
 | [0051-n-queens](https://github.com/Nitin571/leetcode-dsa/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/Nitin571/leetcode-dsa/tree/main/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/Nitin571/leetcode-dsa/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Nitin571/leetcode-dsa/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Nitin571/leetcode-dsa/tree/main/0216-combination-sum-iii/) | Medium |

@@ -297,6 +297,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Nitin571/leetcode-dsa/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Nitin571/leetcode-dsa/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nitin571/leetcode-dsa/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/3477-fruits-into-baskets-ii/) | Easy |
@@ -450,6 +451,7 @@
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Nitin571/leetcode-dsa/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Nitin571/leetcode-dsa/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Nitin571/leetcode-dsa/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Nitin571/leetcode-dsa/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Hash Table
@@ -603,6 +605,7 @@
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Nitin571/leetcode-dsa/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nitin571/leetcode-dsa/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -677,6 +680,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/Nitin571/leetcode-dsa/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Nitin571/leetcode-dsa/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Nitin571/leetcode-dsa/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nitin571/leetcode-dsa/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -905,6 +909,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nitin571/leetcode-dsa/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nitin571/leetcode-dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nitin571/leetcode-dsa/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nitin571/leetcode-dsa/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |

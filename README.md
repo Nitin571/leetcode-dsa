@@ -418,6 +418,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Nitin571/leetcode-dsa/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nitin571/leetcode-dsa/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Nitin571/leetcode-dsa/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Nitin571/leetcode-dsa/tree/main/3849-maximum-bitwise-xor-after-rearrangement/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -454,6 +455,7 @@
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Nitin571/leetcode-dsa/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Nitin571/leetcode-dsa/tree/main/3849-maximum-bitwise-xor-after-rearrangement/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -758,6 +760,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Nitin571/leetcode-dsa/tree/main/3849-maximum-bitwise-xor-after-rearrangement/) | Medium |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Nitin571/leetcode-dsa/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |

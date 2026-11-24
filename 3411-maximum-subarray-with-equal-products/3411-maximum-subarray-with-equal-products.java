@@ -1,33 +1,31 @@
 class Solution {
     public int gcd(int a, int b) {
-        if(b == 0) return a;
-        return gcd(b, a % b);
+        return b == 0 ? a : gcd(b, a % b);
     }
 
-    public long lcm(long a, long b) {
-        return (a / gcd((int)a, (int)b)) * b;
+    public int lcm(int a, int b) {
+        return (a / gcd(a, b)) * b;
     }
 
     public int maxLength(int[] nums) {
         int n = nums.length;
-        int ans = 0;
-        for(int start = 0; start < n; start++) {
-
-            long prod = 1;
-            long lcm = 1;
-            int gcd = 0;
-
-            for(int end = start; end < n; end++) {
-
-                prod *= nums[end];
-                gcd = gcd(gcd, nums[end]);
-                lcm = lcm(lcm, nums[end]);
-
-                if(prod == lcm * gcd) {
-                    ans = Math.max(ans, end - start + 1);
+        int maxL = 0;
+        
+        for (int i = 0; i < n; i++) {
+            int currGCD = nums[i];
+            int currLCM = nums[i];
+            int currPro = nums[i];
+            
+            for (int j = i + 1; j < n; j++) {
+                currPro *= nums[j];
+                currGCD = gcd(currGCD, nums[j]);
+                currLCM = lcm(currLCM, nums[j]);
+                
+                if (currPro == currLCM * currGCD) {
+                    maxL = Math.max(maxL, j - i + 1);
                 }
             }
         }
-        return ans;
+        return maxL;
     }
 }

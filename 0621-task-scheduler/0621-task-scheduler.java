@@ -6,37 +6,13 @@ class Solution {
             freq[ch - 'A']++;
         }
 
-        PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
-
-        for(int f : freq) {
-            if(f > 0) {
-                pq.add(f);
-            }
+        Arrays.sort(freq);
+        int max = freq[25];
+        int emptySpots = (max - 1) * n;
+        for(int i = 24; i >= 0; i--) {
+            emptySpots -= Math.min(max - 1, freq[i]);
         }
 
-        int time = 0;
-        while(!pq.isEmpty()){
-            int cycle = n + 1;
-            List<Integer> temp = new ArrayList<>();
-
-            int taskCount = 0;
-            while(cycle > 0 && !pq.isEmpty()) {
-                int remaining = pq.remove();
-
-                if(remaining > 1) {
-                    temp.add(remaining - 1);
-                }
-
-                taskCount++;
-                cycle--;
-            }
-
-            for(int remaining : temp) {
-                pq.add(remaining);
-            }
-
-            time += pq.isEmpty() ? taskCount : n + 1;
-        }
-        return time;
+        return emptySpots > 0 ? tasks.length + emptySpots : tasks.length;
     }
 }

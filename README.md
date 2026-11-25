@@ -62,6 +62,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nitin571/leetcode-dsa/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/Nitin571/leetcode-dsa/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -323,6 +324,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/Nitin571/leetcode-dsa/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/Nitin571/leetcode-dsa/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -532,6 +534,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nitin571/leetcode-dsa/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/Nitin571/leetcode-dsa/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1008,6 +1011,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0706-design-hashmap](https://github.com/Nitin571/leetcode-dsa/tree/main/0706-design-hashmap/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/Nitin571/leetcode-dsa/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1070,4 +1074,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nitin571/leetcode-dsa/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/Nitin571/leetcode-dsa/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/Nitin571/leetcode-dsa/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->

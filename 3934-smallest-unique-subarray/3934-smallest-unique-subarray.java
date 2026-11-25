@@ -1,78 +1,48 @@
-
 class Solution {
-    private static final long MOD = 1_000_000_007L;
-    private long findPower(long a, long exp) {
-        if (exp == 0) {
-            return 1;
+    private long pow(long base,long exp,long mod){
+        long res=1;
+        while(exp!=0){
+            if(exp%2==1){
+                res=(res*base)%mod;
+            }
+            base=(base*base)%mod;
+            exp>>=1;
         }
-
-        long half = findPower(a, exp / 2);
-        long result = (half * half) % MOD;
-
-        if (exp % 2 == 1) {
-            result = (result * a) % MOD;
-        }
-
-        return result;
+        return res;
     }
-
-    private boolean check(int[] nums, int size, long base) {
-        int n = nums.length;
-
-        long hash = 0;
-        Map<Long, Integer> mp = new HashMap<>();
-
-        long p = findPower(base % MOD, size - 1);
-
-        int i = 0;
-        int j = 0;
-
-        while (j < n) {
-            hash = (hash * base + nums[j]) % MOD;
-
-            if (j - i + 1 < size) {
-                j++;
-            } else {
-                mp.put(hash, mp.getOrDefault(hash, 0) + 1);
-
-                hash = (hash - (p * nums[i]) % MOD + MOD) % MOD;
-
-                i++;
-                j++;
-            }
+    private boolean helper(int[]nums,int mid){
+        long hash=0;
+        long m = 100007;
+        long mod = 1_000_000_007L;
+        HashMap<Long,Integer>map=new HashMap<>();
+        for(int i=0;i<mid-1;i++){
+            hash=(hash*m+nums[i])%mod;
         }
-
-        for (int count : mp.values()) {
-            if (count == 1) {
-                return true;
-            }
+        long p=pow(m,mid-1,mod);
+        for(int i=mid-1;i<nums.length;i++){
+            hash=(hash*m+nums[i])%mod;
+            map.put(hash,map.getOrDefault(hash,0)+1);
+            hash=(hash-(nums[i-(mid-1)]*p)%mod+mod)%mod;
         }
-
+        // System.out.println(map);
+        for(int v:map.values()){
+            if(v==1)return true;
+        }
         return false;
     }
-
     public int smallestUniqueSubarray(int[] nums) {
-        int n = nums.length;
-
-        if (n == 0) return 0;
-
-        long base = Arrays.stream(nums).max().getAsInt() + 1L;
-
-        int l = 1;
-        int r = n;
-        int result = n;
-
-        while (l <= r) {
-            int mid = l + (r - l) / 2;
-
-            if (check(nums, mid, base)) {
-                result = mid;
-                r = mid - 1;
-            } else {
-                l = mid + 1;
+        int n=nums.length;
+        int low=1;
+        int high=n;
+        int ans=n;
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            if(helper(nums,mid)){
+                ans=mid;
+                high=mid-1;
             }
+            else low=mid+1;
         }
-
-        return result;
+        return ans;
     }
 }

@@ -379,6 +379,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/Nitin571/leetcode-dsa/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Nitin571/leetcode-dsa/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Nitin571/leetcode-dsa/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nitin571/leetcode-dsa/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -646,6 +647,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Nitin571/leetcode-dsa/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/Nitin571/leetcode-dsa/tree/main/3360-stone-removal-game/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Nitin571/leetcode-dsa/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3612-process-string-with-special-operations-i/) | Medium |

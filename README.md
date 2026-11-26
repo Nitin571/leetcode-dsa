@@ -239,6 +239,7 @@
 | [0826-most-profit-assigning-work](https://github.com/Nitin571/leetcode-dsa/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0832-flipping-an-image](https://github.com/Nitin571/leetcode-dsa/tree/main/0832-flipping-an-image/) | Easy |
 | [0853-car-fleet](https://github.com/Nitin571/leetcode-dsa/tree/main/0853-car-fleet/) | Medium |
+| [0861-score-after-flipping-matrix](https://github.com/Nitin571/leetcode-dsa/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/Nitin571/leetcode-dsa/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Nitin571/leetcode-dsa/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Nitin571/leetcode-dsa/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -413,6 +414,7 @@
 | [0769-max-chunks-to-make-sorted](https://github.com/Nitin571/leetcode-dsa/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Nitin571/leetcode-dsa/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/Nitin571/leetcode-dsa/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [0861-score-after-flipping-matrix](https://github.com/Nitin571/leetcode-dsa/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nitin571/leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nitin571/leetcode-dsa/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Nitin571/leetcode-dsa/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
@@ -463,6 +465,7 @@
 | [0477-total-hamming-distance](https://github.com/Nitin571/leetcode-dsa/tree/main/0477-total-hamming-distance/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Nitin571/leetcode-dsa/tree/main/0784-letter-case-permutation/) | Medium |
 | [0832-flipping-an-image](https://github.com/Nitin571/leetcode-dsa/tree/main/0832-flipping-an-image/) | Easy |
+| [0861-score-after-flipping-matrix](https://github.com/Nitin571/leetcode-dsa/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Nitin571/leetcode-dsa/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Nitin571/leetcode-dsa/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Nitin571/leetcode-dsa/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
@@ -795,6 +798,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nitin571/leetcode-dsa/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Nitin571/leetcode-dsa/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0832-flipping-an-image](https://github.com/Nitin571/leetcode-dsa/tree/main/0832-flipping-an-image/) | Easy |
+| [0861-score-after-flipping-matrix](https://github.com/Nitin571/leetcode-dsa/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/Nitin571/leetcode-dsa/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Nitin571/leetcode-dsa/tree/main/1260-shift-2d-grid/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Nitin571/leetcode-dsa/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |

@@ -216,6 +216,7 @@
 | [0477-total-hamming-distance](https://github.com/Nitin571/leetcode-dsa/tree/main/0477-total-hamming-distance/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Nitin571/leetcode-dsa/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/Nitin571/leetcode-dsa/tree/main/0486-predict-the-winner/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/Nitin571/leetcode-dsa/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Nitin571/leetcode-dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/Nitin571/leetcode-dsa/tree/main/0506-relative-ranks/) | Easy |
@@ -463,6 +464,7 @@
 | [0461-hamming-distance](https://github.com/Nitin571/leetcode-dsa/tree/main/0461-hamming-distance/) | Easy |
 | [0476-number-complement](https://github.com/Nitin571/leetcode-dsa/tree/main/0476-number-complement/) | Easy |
 | [0477-total-hamming-distance](https://github.com/Nitin571/leetcode-dsa/tree/main/0477-total-hamming-distance/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/Nitin571/leetcode-dsa/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Nitin571/leetcode-dsa/tree/main/0784-letter-case-permutation/) | Medium |
 | [0832-flipping-an-image](https://github.com/Nitin571/leetcode-dsa/tree/main/0832-flipping-an-image/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/Nitin571/leetcode-dsa/tree/main/0861-score-after-flipping-matrix/) | Medium |
@@ -504,6 +506,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Nitin571/leetcode-dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/Nitin571/leetcode-dsa/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Nitin571/leetcode-dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/Nitin571/leetcode-dsa/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Nitin571/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -1006,6 +1009,7 @@
 | [0090-subsets-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Nitin571/leetcode-dsa/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Nitin571/leetcode-dsa/tree/main/0216-combination-sum-iii/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/Nitin571/leetcode-dsa/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Nitin571/leetcode-dsa/tree/main/0784-letter-case-permutation/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |

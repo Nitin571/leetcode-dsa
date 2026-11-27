@@ -8,6 +8,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Nitin571/leetcode-dsa/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nitin571/leetcode-dsa/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/Nitin571/leetcode-dsa/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -21,6 +22,7 @@
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Nitin571/leetcode-dsa/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0200-number-of-islands](https://github.com/Nitin571/leetcode-dsa/tree/main/0200-number-of-islands/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nitin571/leetcode-dsa/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
@@ -131,6 +133,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Nitin571/leetcode-dsa/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nitin571/leetcode-dsa/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/Nitin571/leetcode-dsa/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -144,6 +147,7 @@
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Nitin571/leetcode-dsa/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0200-number-of-islands](https://github.com/Nitin571/leetcode-dsa/tree/main/0200-number-of-islands/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nitin571/leetcode-dsa/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/Nitin571/leetcode-dsa/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -914,6 +918,7 @@
 | [0061-rotate-list](https://github.com/Nitin571/leetcode-dsa/tree/main/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/Nitin571/leetcode-dsa/tree/main/0086-partition-list/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Nitin571/leetcode-dsa/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/Nitin571/leetcode-dsa/tree/main/0148-sort-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/0445-add-two-numbers-ii/) | Medium |

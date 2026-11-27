@@ -12,6 +12,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nitin571/leetcode-dsa/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/Nitin571/leetcode-dsa/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nitin571/leetcode-dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0894-all-possible-full-binary-trees](https://github.com/Nitin571/leetcode-dsa/tree/main/0894-all-possible-full-binary-trees/) | Medium |
@@ -27,6 +28,7 @@
 | [0200-number-of-islands](https://github.com/Nitin571/leetcode-dsa/tree/main/0200-number-of-islands/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nitin571/leetcode-dsa/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/Nitin571/leetcode-dsa/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nitin571/leetcode-dsa/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nitin571/leetcode-dsa/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
@@ -137,6 +139,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nitin571/leetcode-dsa/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/Nitin571/leetcode-dsa/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nitin571/leetcode-dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0894-all-possible-full-binary-trees](https://github.com/Nitin571/leetcode-dsa/tree/main/0894-all-possible-full-binary-trees/) | Medium |
@@ -151,6 +154,7 @@
 | [0200-number-of-islands](https://github.com/Nitin571/leetcode-dsa/tree/main/0200-number-of-islands/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nitin571/leetcode-dsa/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/Nitin571/leetcode-dsa/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Nitin571/leetcode-dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -327,6 +327,7 @@
 | [3903-smallest-stable-index-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Nitin571/leetcode-dsa/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/Nitin571/leetcode-dsa/tree/main/3934-smallest-unique-subarray/) | Hard |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -436,6 +437,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nitin571/leetcode-dsa/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Nitin571/leetcode-dsa/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Nitin571/leetcode-dsa/tree/main/3849-maximum-bitwise-xor-after-rearrangement/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -682,6 +684,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/Nitin571/leetcode-dsa/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nitin571/leetcode-dsa/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Nitin571/leetcode-dsa/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
